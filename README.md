@@ -44,7 +44,7 @@ http://www.ece.ucsb.edu/~psen/PaperPages/removing_MC_noise.html (code available)
 2016 Adaptive Polynomial Rendering
 https://www.disneyresearch.com/publication/adaptive-polynomial-rendering/
 
-## NN method
+## 2 NN method
 2015 A Machine Learning Approach for Filtering Monte Carlo Noise
 http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2015_LBF/ (everything available)
 
@@ -63,5 +63,5 @@ http://vclab.kaist.ac.kr/siggraphasia2017p1/index.html (everything)
 2017 Kernel-Predicting Convolutional Networks for Denoising Monte Carlo Renderings
 http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2017_KPCN/
 
-## Evaluation
+## 3 Evaluation
 2017 Analysis of reported error in Monte Carlo rendered images
