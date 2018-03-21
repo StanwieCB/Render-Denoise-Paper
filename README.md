@@ -1,12 +1,12 @@
-#Paper List 2011 - Present
+# Paper List 2011 - Present
 
-##1 Denoising
+## 1 Denoising
 2015 Recent Advances in Adaptive Sampling and Reconstruction for Monte Carlo Rendering
 
 2015 Denoising Your Monte Carlo Renders: Recent Advances in Image Space-Adaptive Sampling and Reconstruction (course)
 http://cgg.unibe.ch/publications/denoising-your-monte-carlo-renders
 
-###1.1 Filters using Auxiliary Features
+### 1.1 Filters using Auxiliary Features
 2011 On Filtering the Noise from the Random Parameters in Monte Carlo Rendering
 
 2011 Temporal Light Field Reconstruction for Rendering Distribution Effects
@@ -33,7 +33,7 @@ https://software.intel.com/en-us/articles/texture-space-caching-and-reconstructi
 
 2018 Adaptive rendering based on robust principal component analysis
 
-###1.2 Image Space Denoising Filters
+### 1.2 Image Space Denoising Filters
 2012 Adaptive Rendering with Non-Local Means Filtering
 
 2013 Removing the Noise in Monte Carlo Rendering with General Image Denoising Algorithms
@@ -44,7 +44,7 @@ http://www.ece.ucsb.edu/~psen/PaperPages/removing_MC_noise.html (code available)
 2016 Adaptive Polynomial Rendering
 https://www.disneyresearch.com/publication/adaptive-polynomial-rendering/
 
-##NN method
+## NN method
 2015 A Machine Learning Approach for Filtering Monte Carlo Noise
 http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2015_LBF/ (everything available)
 
@@ -63,5 +63,5 @@ http://vclab.kaist.ac.kr/siggraphasia2017p1/index.html (everything)
 2017 Kernel-Predicting Convolutional Networks for Denoising Monte Carlo Renderings
 http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2017_KPCN/
 
-##Evaluation
+## Evaluation
 2017 Analysis of reported error in Monte Carlo rendered images
