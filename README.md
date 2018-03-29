@@ -44,6 +44,9 @@ http://www.ece.ucsb.edu/~psen/PaperPages/removing_MC_noise.html (code available)
 2016 Adaptive Polynomial Rendering
 https://www.disneyresearch.com/publication/adaptive-polynomial-rendering/
 
+2016 Nonlinearly Weighted First-order Regression for Denoising Monte Carlo Renderings
+https://benedikt-bitterli.me/nfor/
+
 ## 2 NN method
 2015 A Machine Learning Approach for Filtering Monte Carlo Noise
 http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2015_LBF/ (everything available)
@@ -65,3 +68,6 @@ http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2017_KPCN/
 
 ## 3 Evaluation
 2017 Analysis of reported error in Monte Carlo rendered images
+
+
+Low-Rank Matrix Completion to Reconstruct Incomplete Rendering Images
