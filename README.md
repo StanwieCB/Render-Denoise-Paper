@@ -31,6 +31,9 @@ http://cgg.unibe.ch/publications/progressive-image-denoising
 2016 Texture Space Caching and Reconstruction for Ray Tracing
 https://software.intel.com/en-us/articles/texture-space-caching-and-reconstruction-for-ray-tracing (code available)
 
+2016 Nonlinearly Weighted First-order Regression for Denoising Monte Carlo Renderings
+https://benedikt-bitterli.me/nfor/
+
 2018 Adaptive rendering based on robust principal component analysis
 
 ### 1.2 Image Space Denoising Filters
@@ -43,9 +46,6 @@ http://www.ece.ucsb.edu/~psen/PaperPages/removing_MC_noise.html (code available)
 
 2016 Adaptive Polynomial Rendering
 https://www.disneyresearch.com/publication/adaptive-polynomial-rendering/
-
-2016 Nonlinearly Weighted First-order Regression for Denoising Monte Carlo Renderings
-https://benedikt-bitterli.me/nfor/
 
 ## 2 NN method
 2015 A Machine Learning Approach for Filtering Monte Carlo Noise
@@ -66,8 +66,15 @@ http://vclab.kaist.ac.kr/siggraphasia2017p1/index.html (everything)
 2017 Kernel-Predicting Convolutional Networks for Denoising Monte Carlo Renderings
 http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2017_KPCN/
 
+2017 Low-Rank Matrix Completion to Reconstruct Incomplete Rendering Images
+
 ## 3 Evaluation
 2017 Analysis of reported error in Monte Carlo rendered images
 
 
-Low-Rank Matrix Completion to Reconstruct Incomplete Rendering Images
+## 4 CV detail preservation
+2016 Deep Edge Guided Recurrent Residual Learning for Image Super-Resolution 
+http://www.icst.pku.edu.cn/struct/Projects/DEGREE.html
+
+2016 Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network 
+https://github.com/tensorlayer/srgan
