@@ -47,6 +47,8 @@ http://www.ece.ucsb.edu/~psen/PaperPages/removing_MC_noise.html (code available)
 2016 Adaptive Polynomial Rendering
 https://www.disneyresearch.com/publication/adaptive-polynomial-rendering/
 
+2017 Low-Rank Matrix Completion to Reconstruct Incomplete Rendering Images
+
 ## 2 NN method
 2015 A Machine Learning Approach for Filtering Monte Carlo Noise
 http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2015_LBF/ (everything available)
@@ -66,11 +68,11 @@ http://vclab.kaist.ac.kr/siggraphasia2017p1/index.html (everything)
 2017 Kernel-Predicting Convolutional Networks for Denoising Monte Carlo Renderings
 http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2017_KPCN/
 
-2017 Low-Rank Matrix Completion to Reconstruct Incomplete Rendering Images
+2017 Beyond a Gaussian Denoiser Residual Learning of Deep CNN for Image Denoising
+https://github.com/cszn/DnCNN
 
 ## 3 Evaluation
 2017 Analysis of reported error in Monte Carlo rendered images
-
 
 ## 4 CV detail preservation
 2016 Deep Edge Guided Recurrent Residual Learning for Image Super-Resolution 
@@ -78,3 +80,6 @@ http://www.icst.pku.edu.cn/struct/Projects/DEGREE.html
 
 2016 Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network 
 https://github.com/tensorlayer/srgan
+
+2017 EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis
+https://github.com/kkkzm2017/Enhancenet
